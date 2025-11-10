@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Demyan, a student at NRNU MEPHI, and I'm glad to see you.
 <!--
 **karT0IIIecHka/karT0IIIecHka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
